@@ -7,8 +7,8 @@ I focused on the **Northeast region** and built a Power BI report to help the re
 ## My Region: Northeast 
 - **Regional Director:** Michael Jarvis
 -  **Store Managers:** Shruti Reddy, Bo Heap, Erbayne Middleton, Miami Vue
--  **States covered:** Maryland, Massachusetts, Maine, and New Jersey
--  **Total stores:** 43 locations (Store IDs 730–839)
+-  **States Covered:** Maryland, Massachusetts, Maine, and New Jersey
+-  **Total Stores:** 43 locations (Store IDs 730–839)
 
 ## Project Files
 - `Campusano_capstone3.pbix` – Power BI report file 
