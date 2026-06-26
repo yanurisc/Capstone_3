@@ -37,6 +37,7 @@ I focused on the **Northeast region** and built a Power BI report to help the re
 - **GitHub** – Used to publish and share all project files including the .pbix file and README.
 
 ## Video Link
+https://yearuptemp-my.sharepoint.com/personal/dsharma_yearup_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdsharma_yearup_org%2FDocuments%2FData+Analytics_Class+7%2FCapstone+3+-+Current%2FCapstone+3+-+PowerPoint%2FYanuris_Campusano_Capstone3.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.d725ea23-6e66-4095-812e-8824548a3222
 
 ## Author
 Yanuris Campusano
