@@ -25,7 +25,7 @@ I focused on the **Northeast region** and built a Power BI report to help the re
   categories are selling more vs less
 
 **Page 2 – State Sales & Top-Selling Books**
-- Pie chart showing relative sales for each state in the Northeast region to
+- Donut chart showing relative sales for each state in the Northeast region to
   show each state's share of total sales
 - Table listing top-selling books including author names to identify which
   general audience books are performing best (excluding textbooks)
